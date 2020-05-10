@@ -16,5 +16,5 @@ window.open(qr.createBlobUrl(20,10), '_self'); // open the qrcode
 </script>
 ```
 
-# Additonal information
+# Additonal information / Based on
 https://github.com/kazuhikoarase/qrcode-generator/tree/master/js
